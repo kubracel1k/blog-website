@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: arial;
+    padding: 20px;
+    background-color: white;
+}
+.header{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    padding: 5px ;
+}
+.leftcolumn {   
+    float: left;
+    width: 75%;
+  }
+  .rightcolumn {   
+    float: left;
+    width: 75%;
+  }
+  .menu{
+    text-align: center;font-size:25px
+   
+}
+.box{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    padding: 5px ;
+   
+}
